@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+
+.notFound h2{
+  color: red;
+}
+
+.notFound p{
+  color: red;
+}
+
