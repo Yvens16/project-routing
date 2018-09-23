@@ -10,3 +10,8 @@
   color: red;
 }
 
+.active{
+  font-size: 20px;
+  font-weight: bold;
+  color: #D32AA9;
+}

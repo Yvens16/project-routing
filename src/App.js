@@ -7,7 +7,7 @@ import Home from "./components/Home.js";
 import AboutUs from "./components/AboutUs.js";
 import NotFound from "./components/NotFound.js";
 import ProjectList from "./components/ProjectList.js";
-import ProjectDetails from "./components/ProjectDetails.js"
+import ProjectDetails from "./components/ProjectDetails.js";
 
 class App extends Component {
   render() {
@@ -20,12 +20,9 @@ class App extends Component {
               Home
             </NavLink>
 
-            <NavLink  to="/about">
-              About
-            </NavLink>
+            <NavLink to="/about">About</NavLink>
 
             <NavLink to="/projects"> Projects</NavLink>
-
           </nav>
         </header>
 
